@@ -8,7 +8,7 @@ summarize the output html files from fastp
 in that directory
 
 # Use
- fastp_summarize.py <name of directory with all the json files>
+ fastp_summarize.py directory_name_with_json_files 
 
 # Example
  in fastp_summarize folder:
