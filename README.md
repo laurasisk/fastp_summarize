@@ -11,5 +11,4 @@ in that directory
  fastp_summarize.py directory_name_with_json_files 
 
 # Example
- in fastp_summarize folder:
  fastp_summarize.py example_data
