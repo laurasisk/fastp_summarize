@@ -1,5 +1,5 @@
 # fastp_summarize
-purpose: summarize the output .json files from fastp
+purpose: summarize the output .json files from fastp (https://github.com/OpenGene/fastp)
 
 # Setting up
  1. clone repository, or just download the fastp_summarize.py and example data
