@@ -7,7 +7,7 @@ summarize the output html files from fastp
  3. Have all the .json output files from fastp that you wish to summarize in one directory, with no other json files 
 in that directory
 
-# Use
+# Usage 
  fastp_summarize.py directory_name_with_json_files 
 
 # Example
