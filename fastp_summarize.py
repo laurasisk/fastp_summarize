@@ -17,14 +17,6 @@ print('Directory:')
 print(os.getcwd())
 
 
-#small test
-#file_json = open('500_10_S46_L004_R1_001.fastq.json')
-#test_json = json.load(file_json)   
-
-#print(test_json["summary"])
-
-
-##when make bigger
 ##make a list of the files in the directory
 files = glob.glob("*.json")
 
