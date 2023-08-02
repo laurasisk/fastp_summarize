@@ -1,5 +1,5 @@
 # fastp_summarize
-summarize the output html files from fastp
+purpose: summarize the output .json files from fastp
 
 # Setting up
  1. clone repository, or just download the fastp_summarize.py and example data
