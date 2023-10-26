@@ -8,7 +8,7 @@ purpose: summarize the output .json files from fastp (https://github.com/OpenGen
 in that directory
 
 # Usage 
- fastp_summarize.py directory_name_with_json_files 
+ python fastp_summarize.py directory_name_with_json_files 
 
 # Example
  fastp_summarize.py example_data
