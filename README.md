@@ -10,5 +10,8 @@ in that directory
 # Usage 
  python fastp_summarize.py directory_name_with_json_files 
 
+# Outputs
+This will product three summary files: results before filtering, results after filtering, and fastp results summary
+
 # Example
  fastp_summarize.py example_data
